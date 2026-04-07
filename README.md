@@ -18,8 +18,8 @@ An interactive Power BI dashboard that analyzes traffic congestion, volume, spee
 Dataset sourced from Kaggle (Bengaluru traffic dataset)
 
 5.Features / Highlights
-a.Area-wise traffic and congestion comparison across Electronic City, Hebbal, Indiranagar, Jayanagar, Koramangala, M. G. Road, Whitefield, and **Yeshwanthpur
-b.Road and intersection performance analysis including Silk Board Junction, Hebbal Flyover, Sarjapur Road, Trinity Circle, and **Sony World Junction
+a.Area-wise traffic and congestion comparison across Electronic City, Hebbal, Indiranagar, Jayanagar, Koramangala, M. G. Road, Whitefield, and Yeshwanthpur
+b.Road and intersection performance analysis including Silk Board Junction, Hebbal Flyover, Sarjapur Road, Trinity Circle, and Sony World Junction
 c.Weather conditions impact on traffic volume and travel time
 d.Effect of road construction on congestion levels
 e.Relationship between parking usage and traffic density
