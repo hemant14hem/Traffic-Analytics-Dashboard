@@ -18,25 +18,12 @@ An interactive Power BI dashboard that analyzes traffic congestion, volume, spee
 Dataset sourced from Kaggle (Bengaluru traffic dataset)
 
 5.Features / Highlights
-📍 Area-wise Traffic Analysis
-Compare traffic volume and congestion across Electronic City, Hebbal, Indiranagar, Jayanagar, Koramangala, M. G. Road, Whitefield, and Yeshwanthpur.
-🛣️ Road & Intersection Performance
-Identify highly congested roads like Silk Board Junction, Hebbal Flyover, Sarjapur Road, Trinity Circle, and Sony World Junction.
-Example: Hebbal Flyover shows higher average congestion during peak hours.
-🌧️ Weather Impact on Traffic
-Analyze how rain, fog, overcast, and clear conditions affect traffic volume.
-Example: Rainy conditions significantly increase travel time and congestion.
-🚧 Road Construction vs Congestion
-Visual comparison of congestion levels when roadwork is present vs absent.
-Example: Areas under construction show noticeable spikes in congestion.
-🅿️ Parking Usage vs Traffic Volume
-Understand how higher parking activity contributes to increased traffic density.
-🚌 Public Transport Usage vs Congestion
-Areas with higher public transport usage tend to show relatively lower congestion.
-Example: Indiranagar shows balanced congestion with better public transport usage.
-🚦 Signal Status Traffic Share
-Measure how traffic signals influence overall traffic distribution and flow.
-📆 Monthly Traffic Trends
-Track how traffic volume changes month by month to identify seasonal patterns and peak periods.
-🎛️ Interactive Filters & Slicers
-Dynamic filtering by area, road/intersection, and conditions for focused analysis.
+a.Area-wise traffic and congestion comparison across Electronic City, Hebbal, Indiranagar, Jayanagar, Koramangala, M. G. Road, Whitefield, and **Yeshwanthpur
+b.Road and intersection performance analysis including Silk Board Junction, Hebbal Flyover, Sarjapur Road, Trinity Circle, and **Sony World Junction
+c.Weather conditions impact on traffic volume and travel time
+d.Effect of road construction on congestion levels
+e.Relationship between parking usage and traffic density
+f.Public transport usage vs congestion comparison
+g.Traffic signal status influence on traffic flow
+h.Monthly traffic volume trend analysis
+i.Interactive filters and slicers for detailed analysis
