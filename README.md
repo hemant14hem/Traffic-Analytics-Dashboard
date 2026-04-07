@@ -49,3 +49,4 @@ Traffic signal status has a measurable effect on smooth traffic flow.
 Monthly trend analysis helps identify peak traffic periods and seasonal patterns.
 
 8.Dashboard Screenshots
+https://github.com/hemant14hem/Traffic-Analytics-Dashboard/blob/main/Bengaluru%20Traffic%20Analytics%20Dashboard.png
